@@ -6,7 +6,7 @@
 
 🔍 Recently, I worked on a captivating Bellabeat Case Study as part of the Google Data Analytics Professional Certificate. Leveraging R, I delved into Fitbit fitness data, unraveling intriguing correlations between user activities, sleep patterns, and recommending app features for promoting healthier habits.
 
-🌐 Connect with me on LinkedIn: [LinkedIn](www.linkedin.com/in/yashwardhan-jain-2b0252220) and explore my projects here on GitHub!
+🌐 Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/yashwardhan-jain/) and explore my projects here on GitHub!
 
 ⚽ When not analyzing data, you'll find me indulging in gaming, keeping up with esports, exploring the world of football, and expressing my passion for fashion! 
 
